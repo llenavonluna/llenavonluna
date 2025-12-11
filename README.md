@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**llenavonluna/llenavonluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on freelance stuffs
+- 🌱 I’m currently learning bash
+- 📫 How to reach me: llenavonluna@proton.me
+- ⚡ Fun fact: I despise doomscrollers
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<div align="center">
+  <a href="https://github.com/llenavonluna?tab=repositories">
+    <img 
+      style="height: 180px; width:325px;"
+      height=200
+      align="center"
+      src="https://github-readme-stats-eight-tau-g9m35dlwc0.vercel.app/api?username=llenavonluna&theme=apprentice&hide_rank=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/llenavonluna?tab=repositories">
+    <img
+      style="height: 180px; width:325px;"
+      height=200
+      align="center"
+      src="https://github-readme-stats-eight-tau-g9m35dlwc0.vercel.app/api/top-langs/?username=llenavonluna&size_weight=0.05&count_weight=1&theme=apprentice&layout=compact&langs_count=6&card_width=270&hide=Jupyter%20Notebook,css,html,Mako,shell,dockerfile,javascript,makefile,zig,vim%script,smalry,glsl,c,c%2B%2B"
+      />
+  </a>
+  <div style="height:10px;"></div>
+</div>
